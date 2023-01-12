@@ -1,0 +1,7 @@
+ Grilled Chicken Burger	12.00	12 50
+ Double Cheeseburger	13.00	11 50
+ Filet-O-Fish Burger	11.00	11 40
+ Beef Burger	14.00	13 70
+ Veggie Burger	10.00	10 40
+ Cheezy Wedges	7.00	5 80
+ French Fries	5.00	5 80
